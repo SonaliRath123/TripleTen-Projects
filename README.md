@@ -1,5 +1,5 @@
 # TripleTen-Projects
-Projects I worked on as I attended Business Intelligence Analyst Triple Ten Bootcamp.
+Projects I worked on as I attended Business Intelligence Analyst TripleTen Bootcamp.
 
 | Project No  | Project Title |Description|
 | ------------- | ------------- |---------|
